@@ -33,5 +33,14 @@ Model2 is trained with 10 epochs on Colab GPU (runs/train/exp/weights/best.pt):
 !python train.py --img 416 --batch 16 --epochs 10 --data {dataset.location}/data.yaml --weights yolov5s.pt --cache
 
 
+Model deployment is tested on youtube video in DeployYOLOv5droneDetection.ipynb
+
+
+Many thanks for idea:
+
+
+https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7
+
+
 
 
