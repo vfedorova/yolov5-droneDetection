@@ -1,6 +1,13 @@
 # yolov5-droneDetection
 Implementation of Yolov5 Object detection Model: https://github.com/ultralytics/yolov5
 
+
+The choice of Yolov5s to read here:
+
+https://pytorch.org/hub/ultralytics_yolov5/
+
+
+
 on custom dataset with drone images, dataset created with roboflow, 
 
 full description is here: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/.
