@@ -5,6 +5,13 @@ Implementation of Yolov5 Object detection Model: https://github.com/ultralytics/
 The choice of Yolov5s to read here:
 
 https://pytorch.org/hub/ultralytics_yolov5/
+<p align="center">
+  <img src="https://github.com/vfedorova/yolov5-droneDetection/blob/main/model_plot.png" width="350" title="hover text">
+ 
+</p>
+
+
+
 
 
 
